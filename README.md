@@ -1,2 +1,2 @@
 # ADG
-Universal clustering based on adaptive density gradient
+Universal clustering algorithm based on adaptive density gradient
