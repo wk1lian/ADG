@@ -53,7 +53,7 @@ Output format:
       10_200_9 means the raw clusters for k=10, m=200. The number of clusters=9
       10_200_9_80% means the 80% core clusters for k=10, m=200
       10_299_9_order means the order in which the samples are added to the clusters for k=10, m=200
-      10_200_9 means the raw clusters for k=15, m=200. The number of clusters=6
-      10_200_9_80% means the 80% core clusters for k=15, m=200
-      10_299_9_order means the order in which the samples are added to the clusters for k=15, m=200
+      15_200_6 means the raw clusters for k=15, m=200. The number of clusters=6
+      15_200_6_80% means the 80% core clusters for k=15, m=200
+      15_200_6_order means the order in which the samples are added to the clusters for k=15, m=200
 ```
