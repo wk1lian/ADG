@@ -1,6 +1,8 @@
 # ADG
 Universal clustering algorithm based on an adaptive density gradient
 
+See details: <https://doi.org/10.36227/techrxiv.20154833>
+
 ## HELP
 ```
 Version: 1.0
